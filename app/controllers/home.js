@@ -1,5 +1,5 @@
 if (OS_ANDROID){
-	$.index.open();
+	$.w_Android.open();
 }
 else {
 	$.nav.open();

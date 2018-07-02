@@ -1,5 +1,8 @@
 <Alloy>
 	<Window id="w_Android" platform="android">
 		<Label id="lb_android"></Label>
+		<Menu id="menu" platform="android">
+		    <MenuItem id="closeitem" title="Add" onClick="doAdd"/>
+		</Menu>
 	</Window>
 </Alloy>
