@@ -1,0 +1,18 @@
+"#win2":{
+	 backgroundColor:"black",
+	 layout:"absolute",
+	 width:"100%",
+	 height:"100%",
+	 title:"win2"
+}
+
+"#lb_win2":{
+	text: "Ventana dos",
+	color: 'white',
+	font: {
+			fontSize: '20%'
+		},
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_CENTER,
+	width:"80%",
+	height:"20%"
+}

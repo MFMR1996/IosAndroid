@@ -1,0 +1,10 @@
+<Alloy>
+	<NavigationWindow id="nav" platform="ios">
+		<Window id="w_ios">
+			<Label id="lb_ios"></Label>
+			<RightNavButtons>
+				<Button systemButton="ADD" onClick="doAdd"> </Button>
+			</RightNavButtons>
+		</Window>
+	</NavigationWindow>
+</Alloy>

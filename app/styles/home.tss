@@ -1,0 +1,42 @@
+//-------------------------------ANDROID--------------------------
+"#w_Android[platform=android]":{
+	 backgroundColor:"black",
+	 layout:"absolute",
+	 width:"100%",
+	 height:"100%",
+	 title:"Android"
+}
+
+
+"#lb_android":{
+	text: "Hola desde Android",
+	color: 'black',
+	font: {
+			fontSize: '20%'
+		},
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_CENTER,
+	width:"80%",
+	height:"20%"
+}
+
+
+//------------------------------IOS---------------------------
+"#w_ios[platform=ios]":{
+ 	backgroundColor:"white",
+ 	layout:"absolute",
+	width:"100%",
+	height:"100%",
+	title:"IOS"
+ 	
+}
+
+"#lb_ios":{
+	text: "Hola desde IOS",
+	color: 'black',
+	font: {
+			fontSize: '20%'
+		},
+	textAlign: Titanium.UI.TEXT_ALIGNMENT_CENTER,
+	width:"80%",
+	height:"20%"
+}

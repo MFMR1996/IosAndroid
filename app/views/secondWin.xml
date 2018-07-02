@@ -1,0 +1,6 @@
+<Alloy>
+	<Window id="win2">
+			<Label id="lb_win2"></Label>
+			<ActionBar displayHomeAsUp="true" onHomeIconItemSelected="closewin" platform="android"/>
+	</Window>	
+</Alloy>

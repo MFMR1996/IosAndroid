@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="w_Android" platform="android">
+		<Label id="lb_android"></Label>
+	</Window>
+</Alloy>
